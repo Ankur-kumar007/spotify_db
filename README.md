@@ -3,7 +3,7 @@
 Project : Analysis of spotify database.
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
-![Spotify Logo](d:\zvscode\sql ankur\spotify_logo.jpg)
+![spotify_logo](https://github.com/user-attachments/assets/3be0ae0e-bf12-4b2e-8ffc-aa39e5881e1b)
 
 ## Overview
 
